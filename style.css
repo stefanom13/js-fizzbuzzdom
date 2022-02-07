@@ -1,0 +1,23 @@
+/* contenitore interno  */
+
+#first-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 20px;
+  background-color: aqua;
+}
+
+/* utilities colori  */
+
+.box--g {
+  background-color: #0fd6a1;
+}
+
+.box--y {
+  background-color: #ffd166;
+}
+
+.box--r {
+  background-color: #f0466f;
+}
