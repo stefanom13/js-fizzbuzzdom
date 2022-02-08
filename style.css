@@ -5,7 +5,15 @@
   gap: 20px;
   flex-wrap: wrap;
   padding: 20px;
-  background-color: aqua;
+  background-color: black;
+}
+/* stile box  */
+
+.box {
+  text-align: center;
+  width: calc((100% - 120px) / 7);
+  padding: 30px;
+  background-color: #1189b2;
 }
 
 /* utilities colori  */
